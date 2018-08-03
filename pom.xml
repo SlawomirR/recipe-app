@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>recipe_app</artifactId>
+	<artifactId>recipe-app-spring5</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>recipe_app_spring5</name>
-	<description>Demo project for Spring Boot</description>
+	<name>recipe-app-spring5</name>
+	<description>Recipe Application</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
