@@ -1,4 +1,4 @@
-package com.example.recipe_app.controllers;
+package io.github.slawomirr.recipe_app.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

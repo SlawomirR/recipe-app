@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.example</groupId>
-	<artifactId>recipe-app-spring5</artifactId>
+	<groupId>io.github.slawomirr</groupId>
+	<artifactId>recipe-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>recipe-app-spring5</name>
+	<name>SlawomirR_spring5_recipe-app</name>
 	<description>Recipe Application</description>
 
 	<parent>
@@ -63,6 +63,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
 
 </project>

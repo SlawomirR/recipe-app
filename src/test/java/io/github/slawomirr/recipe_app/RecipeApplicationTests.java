@@ -1,4 +1,4 @@
-package com.example.recipe_app;
+package io.github.slawomirr.recipe_app;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class RecipeAppSpring5ApplicationTests {
+public class RecipeApplicationTests {
 
 	@Test
 	public void contextLoads() {

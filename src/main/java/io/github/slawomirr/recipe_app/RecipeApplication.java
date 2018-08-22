@@ -1,12 +1,12 @@
-package com.example.recipe_app;
+package io.github.slawomirr.recipe_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RecipeSpring5Application {
+public class RecipeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RecipeSpring5Application.class, args);
+		SpringApplication.run(RecipeApplication.class, args);
 	}
 }
